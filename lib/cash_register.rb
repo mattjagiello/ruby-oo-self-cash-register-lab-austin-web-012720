@@ -1,1 +1,3 @@
+class CassRegister
 
+end
